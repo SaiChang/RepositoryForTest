@@ -2,7 +2,7 @@
 public class test01 {
 
 	public static void main(String[] args) {
-		System.out.println("the content is modified");
+		System.out.println("the master branch");
 	}
 	
 }
